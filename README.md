@@ -1,5 +1,5 @@
 # USACO Competitive Programming Solutions 
-This repository contains my solutions to problems from the USA Computing Olympiad <a href="https://example.com" target="_blank">(USACO)</a> training program. Each solution includes a link to the original problem and my Java implementation.
+This repository contains my solutions to problems from the USA Computing Olympiad <a href="https://usaco.training/" target="_blank">(USACO)</a> training program. Each solution includes a link to the original problem and my Java implementation.
 ### Repository Structure
 Solutions are organized by chapter and section following the USACO training structure.
 ## Chapter 1
