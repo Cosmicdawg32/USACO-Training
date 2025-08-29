@@ -5,10 +5,10 @@ Solutions are organized by chapter and section following the USACO training stru
 ## Chapter 1
 ### Section 1.2: Ad Hoc Problems
 #### Your Ride Is Here
-[Problem found here](https://usaco.training/usacoprob2?a=Wf1HbaXZybb&S=ride)
+[Problem found here](https://usaco.training/usacoprob2?a=Wf1HbaXZybb&S=ride)  
 [Solution](https://github.com/Cosmicdawg32/USACO-Training/blob/main/ride.java)
 #### Greedy Gift Givers
-[Problem found here](https://usaco.training/usacoprob2?a=Wf1HbaXZybb&S=gift1)
+[Problem found here](https://usaco.training/usacoprob2?a=Wf1HbaXZybb&S=gift1)  
 [Solution](https://github.com/Cosmicdawg32/USACO-Training/blob/main/gift1.java)
 
 
