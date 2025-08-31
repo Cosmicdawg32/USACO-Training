@@ -12,3 +12,7 @@ Difficulty: Bronze
 Difficulty: Bronze  
 [Problem found here](https://usaco.training/usacoprob2?a=Wf1HbaXZybb&S=gift1)  
 [Solution](https://github.com/Cosmicdawg32/USACO-Training/blob/main/gift1.java)
+#### Firday the Thirteenth
+Difficulty: Bronze  
+[Problem found here](https://usaco.training/usacoprob2?a=oCvm56464zq&S=friday)  
+[Solution](https://github.com/Cosmicdawg32/USACO-Training/blob/main/friday.java)
